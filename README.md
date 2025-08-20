@@ -49,7 +49,7 @@ The journey of this analysis unfolded in three main steps:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/avocado-prices-r-project.git
+   git clone https://github.com/Asyaberk/avocado-prices-r-project.git
    ```
 2. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/neuromusic/avocado-prices) if not included.
 3. Place `avocado.csv` in the project root.
